@@ -1,0 +1,49 @@
+# Archivos generados por Android Studio
+.gradle/
+build/
+local.properties
+.idea/
+*.iml
+*.hprof
+
+# Archivos de compilación de Gradle
+/build
+/captures/
+
+# Archivos de configuración del IDE
+*.apk
+*.ap_
+*.dex
+*.class
+*.jar
+*.keystore
+
+# Configuraciones de Google Services
+google-services.json
+google-services.xml
+
+# Archivos específicos del sistema
+.DS_Store
+Thumbs.db
+*.log
+
+# Archivos temporales
+*.swp
+*.swo
+
+# Archivos de copia de seguridad
+*~
+
+# Archivos de librerías
+*.so
+
+# Archivos de configuraciones de pruebas
+*.test
+*.tests
+
+# Archivos generados por el compilador
+*.class
+
+# Dependencias
+.gradle/
+build/
